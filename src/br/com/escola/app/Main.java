@@ -11,6 +11,7 @@ public class Main {
         AlunoService.criarAluno("Maria", -10, 456);
         AlunoService.criarAluno("Carlos", 25, 789);
         AlunoService.criarAluno("Joaquim", 19, 779);
+        AlunoService.criarAluno("José", 130, 771);
     }
 
 }
