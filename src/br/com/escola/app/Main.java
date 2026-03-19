@@ -1,3 +1,4 @@
+//Esse é o main
 package br.com.escola.app;
 
 import br.com.escola.service.AlunoService;
