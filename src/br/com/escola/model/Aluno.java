@@ -1,5 +1,5 @@
 package br.com.escola.model;
-//teste!!!
+
 public class Aluno extends Pessoa {
 
     private int matricula;
